@@ -36,11 +36,3 @@ The model forecasts **hourly AQI in Seoul**, integrating statistical and deep le
 Demonstrated robust AQI prediction for multiple pollutants (**PM2.5, PM10, NO2, SO2, CO, O3**).
 
 ---
-
-## 🚀 Getting Started
-
-Coming soon...
-
-<!-- Add installation, dataset, and usage instructions here -->
-
----
